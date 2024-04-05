@@ -517,3 +517,12 @@ CCTV16 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 华丽台 ,https://epg.pw/stream/f9164afa8e2b8ed648cb3d903dbc547ed2035f3dd210c1dada7a0f8a4ba7a867.ctv 
 华丽台(翡MAS) ,https://epg.pw/stream/710b4f39ca480891c939fb920c7f231827336eedb69d51c0c87a64df59edfc16.ctv  
 华丽台 ,https://epg.pw/stream/ed3cb928cc3a187bd6456c7562f0f0a99c08f065b5177134aee9931518cc61f5.ctv 
+
+
+斗鱼,#genre#
+
+斗鱼老三国,https://hlstct.douyucdn2.cn/dyliveflv3a/7459925rraHI00vg.m3u8?txSecret=e6603bdb549db7e9ae7ad852b635063f&txTime=66100216&token=web-douyu-0-7459925-7206028f53b191e292a7fe0692be943f&did=63e173aea5e8d8cb0b593e9c00031701&ver=2018061203&st=0&preview=1&pt=3&origin=tct&sid=376035940&mcid2=0
+
+斗鱼老三国,https://hlstct.douyucdn2.cn/dyliveflv1a/276200rSHb4IoLSK_900.m3u8?txSecret=8872594a04e6dbe528cba423fdd2107b&txTime=66100215&token=web-douyu-0-276200-8c7f5ccae879bf6e9c854381b36f7480&did=63e173aea5e8d8cb0b593e9c00031701&ver=2018061203&st=0&preview=1&pt=3&origin=tct&sid=366574471&mcid2=0
+
+斗鱼新三国,https://hlstct.douyucdn2.cn/dyliveflv1/4332rlPwJVxZabny_900.m3u8?txSecret=551edd3d8a87394b301fee0b3742a7be&txTime=66100359&token=web-douyu-0-4332-0272ce78bcffe4e87ad94b090e288c53&did=63e173aea5e8d8cb0b593e9c00031701&ver=2018061203&st=0&preview=1&pt=3&origin=tct&sid=388321538&mcid2=0
