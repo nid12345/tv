@@ -521,8 +521,6 @@ CCTV16 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 
 斗鱼,#genre#
 
-斗鱼老三国,https://hlstct.douyucdn2.cn/dyliveflv3a/7459925rraHI00vg.m3u8?txSecret=e6603bdb549db7e9ae7ad852b635063f&txTime=66100216&token=web-douyu-0-7459925-7206028f53b191e292a7fe0692be943f&did=63e173aea5e8d8cb0b593e9c00031701&ver=2018061203&st=0&preview=1&pt=3&origin=tct&sid=376035940&mcid2=0
+斗鱼老三国,https://hw3a.douyucdn2.cn/live/7459925rraHI00vg.flv?wsAuth=4fb1ab81dbf4cb8d7ce18fcb6426428a&token=web-h5-0-7459925-74d84fa56ae786709d74618d575b59761351863a94c96bc6&logo=0&expire=0&did=63e173aea5e8d8cb0b593e9c00031701&ver=Douyu_224040305&pt=2&st=0&sid=376035940&mcid2=0&origin=tct&mix=0&isp=
 
-斗鱼老三国,https://hlstct.douyucdn2.cn/dyliveflv1a/276200rSHb4IoLSK_900.m3u8?txSecret=8872594a04e6dbe528cba423fdd2107b&txTime=66100215&token=web-douyu-0-276200-8c7f5ccae879bf6e9c854381b36f7480&did=63e173aea5e8d8cb0b593e9c00031701&ver=2018061203&st=0&preview=1&pt=3&origin=tct&sid=366574471&mcid2=0
-
-斗鱼新三国,https://hlstct.douyucdn2.cn/dyliveflv1/4332rlPwJVxZabny_900.m3u8?txSecret=551edd3d8a87394b301fee0b3742a7be&txTime=66100359&token=web-douyu-0-4332-0272ce78bcffe4e87ad94b090e288c53&did=63e173aea5e8d8cb0b593e9c00031701&ver=2018061203&st=0&preview=1&pt=3&origin=tct&sid=388321538&mcid2=0
+斗鱼新三国,https://stream-foshan-cmcc-120-234-147-117.edgesrv.com:8443/live/5908256rIVv6QCUf_4000.flv?wsAuth=05a963fb78ed9ff5b831da6d9098f63e&token=web-h5-0-5908256-e1a3ec39ffc07cbc030b461a338249540fd80e85a4898078&logo=0&expire=0&did=63e173aea5e8d8cb0b593e9c00031701&ver=Douyu_224040305&pt=2&st=0&sid=366822034&mcid2=0&vhost=play4&origin=tct&mix=0&isp=scdncmccgudfs
