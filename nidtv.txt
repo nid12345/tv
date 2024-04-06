@@ -481,14 +481,24 @@ CCTV16 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 广东珠江,http://xjayrf.eatuo.com:9901/tsfile/live/1011_1.m3u8
 广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
 广州南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
+广东经济科教,http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
+广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
+广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
+广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
+广东国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj
+广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
 汕头新闻综合,https://sttv-tsl.cutv.com/lKGXIQa/500/n5sgKsX.m3u8
 潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
+潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
 
 香港频道,#genre#
 凤凰卫视,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
+凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 华丽台,https://epg.pw/stream/9844e656e3c825bf567e65700b778253cd3845746c04ed4381ffc35ef1e1c486.ctv 
 华丽台(翡MAS),https://epg.pw/stream/87424e9fb6e25b9b628bfa3e327e65e73a57c9f83c09f8abd479b1f3d062ea49.ctv 
 华丽台 ,https://epg.pw/stream/ddedf632ce91681c3f61f742fed863509e419bd1942dc1aec59dbe04f859d87d.ctv 
@@ -517,10 +527,3 @@ CCTV16 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 华丽台 ,https://epg.pw/stream/f9164afa8e2b8ed648cb3d903dbc547ed2035f3dd210c1dada7a0f8a4ba7a867.ctv 
 华丽台(翡MAS) ,https://epg.pw/stream/710b4f39ca480891c939fb920c7f231827336eedb69d51c0c87a64df59edfc16.ctv  
 华丽台 ,https://epg.pw/stream/ed3cb928cc3a187bd6456c7562f0f0a99c08f065b5177134aee9931518cc61f5.ctv 
-
-
-斗鱼,#genre#
-
-斗鱼老三国,https://hw3a.douyucdn2.cn/live/7459925rraHI00vg.flv?wsAuth=4fb1ab81dbf4cb8d7ce18fcb6426428a&token=web-h5-0-7459925-74d84fa56ae786709d74618d575b59761351863a94c96bc6&logo=0&expire=0&did=63e173aea5e8d8cb0b593e9c00031701&ver=Douyu_224040305&pt=2&st=0&sid=376035940&mcid2=0&origin=tct&mix=0&isp=
-
-斗鱼新三国,https://stream-foshan-cmcc-120-234-147-117.edgesrv.com:8443/live/5908256rIVv6QCUf_4000.flv?wsAuth=05a963fb78ed9ff5b831da6d9098f63e&token=web-h5-0-5908256-e1a3ec39ffc07cbc030b461a338249540fd80e85a4898078&logo=0&expire=0&did=63e173aea5e8d8cb0b593e9c00031701&ver=Douyu_224040305&pt=2&st=0&sid=366822034&mcid2=0&vhost=play4&origin=tct&mix=0&isp=scdncmccgudfs
