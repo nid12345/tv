@@ -527,3 +527,9 @@ CCTV16 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 华丽台 ,https://epg.pw/stream/f9164afa8e2b8ed648cb3d903dbc547ed2035f3dd210c1dada7a0f8a4ba7a867.ctv 
 华丽台(翡MAS) ,https://epg.pw/stream/710b4f39ca480891c939fb920c7f231827336eedb69d51c0c87a64df59edfc16.ctv  
 华丽台 ,https://epg.pw/stream/ed3cb928cc3a187bd6456c7562f0f0a99c08f065b5177134aee9931518cc61f5.ctv 
+
+斗鱼频道,#genre#
+斗鱼老三国,https://tv.iill.top/douyu/7459925
+斗鱼新三国,https://tv.iill.top/douyu/5908256
+斗鱼狄仁杰,https://tv.iill.top/douyu/11685263
+斗鱼港剧间,https://tv.iill.top/douyu/4549169
