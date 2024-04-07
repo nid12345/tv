@@ -488,11 +488,15 @@ CCTV16 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
 广东国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj
 广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
-汕头新闻综合,https://sttv-tsl.cutv.com/lKGXIQa/500/n5sgKsX.m3u8
+汕头新闻综合,https://sttv-tsl.cutv.com/lKGXIQa/500/d2slfG0.m3u8
 潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
 潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
 
+电台,#genre#
+汕头102.0经济广播,https://sttv-tsl.cutv.com/L3y6rt8/64/92wLfy0.m3u8
+汕头102.5音乐广播,https://sttv-tsl.cutv.com/s7k681h/64/u3bsfk0.m3u8
+汕头107.2综合广播,https://sttv-tsl.cutv.com/Li7mg21/64/73yLf70.m3u8
 香港频道,#genre#
 凤凰卫视,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
