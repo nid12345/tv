@@ -1,5 +1,5 @@
 {"spider":"./spider.jar",
-"wallpaper":"./壁纸.jpg",
+"wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"戏曲","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/哔哩哔哩戏曲.json"},
 	{"key":"播客","name":"播客","type":3,"api":"./js/drpy.min.js","ext":"./js/播客.js"},
