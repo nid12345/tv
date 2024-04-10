@@ -1,4 +1,4 @@
-{"spider":"https://mirror.ghproxy.com/https://github.com/nid12345/tv/blob/main/TVBoxOSC/文艺/json/哔哩哔哩戏曲.json",
+{"spider":"https://mirror.ghproxy.com/https://github.com/nid12345/tv/blob/main/TVBoxOSC/spider.jar",
 "sites":
 	[{"key":"播客","name":"播客","type":3,"api":"./js/drpy.min.js","ext":"./js/播客.js"},
 	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"http://127.0.0.1:9978/file/TVBoxOSC/本地仓/danmu.jar"},
