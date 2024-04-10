@@ -1,4 +1,4 @@
-{"spider":"./file/TVBoxOSC/spider.jar",
+{"spider":"./file/TVBoxOSC/文艺/spider.jar",
 "sites":
 	[{"key":"播客","name":"播客","type":3,"api":"./js/drpy.min.js","ext":"./js/播客.js"},
 	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"http://127.0.0.1:9978/file/TVBoxOSC/本地仓/danmu.jar"},
@@ -39,7 +39,7 @@
 	{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 	{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 "lives":
-	[{"name":"live","type":0,"url":"https://mirror.ghproxy.com/https://github.com/nid12345/tv/blob/main/TVBoxOSC/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
+	[{"name":"live","type":0,"url":"http://127.0.0.1:9978/file/TVBoxOSC/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
 "flags":
 	["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 "ijk":
