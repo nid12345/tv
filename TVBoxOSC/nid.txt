@@ -1,7 +1,12 @@
 {"urls":
 	[
 	{"url":"file://TVBoxOSC/影视/api.json","name":"影视"},
+	{"url":"file://TVBoxOSC/动漫/api.json","name":"动漫"},
 	{"url":"file://TVBoxOSC/文艺/api.json","name":"文艺"},
+	{"url":"file://TVBoxOSC/体育/api.json","name":"体育"},
 	{"url":"file://TVBoxOSC/教育/api.json","name":"教育"},
+	{"url":"file://TVBoxOSC/直播/api.json","name":"直播"},
+	{"url":"file://TVBoxOSC/磁力/api.json","name":"磁力"},
+	{"url":"file://TVBoxOSC/云盘/api.json","name":"云盘"}
 	]
 }
