@@ -1,4 +1,4 @@
-{"spider":"./file/TVBoxOSC/spider.jar",
+{"spider":"./TVBoxOSC/spider.jar",
 "sites":
 	[{"key":"AnFuns","name":"AnFuns","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AnFuns.js"},
 	{"key":"Anime1","name":"Anime1","type":3,"api":"./JS/drpy.min.js","ext":"./JS/Anime1.js"},
