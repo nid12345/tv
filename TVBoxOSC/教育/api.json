@@ -1,5 +1,5 @@
-{"spider":"http://127.0.0.1:9978/file/TVBoxOSC/本地仓/spider.jar",
-"wallpaper":"http://127.0.0.1:9978/file/TVBoxOSC/本地仓/壁纸.jpg",
+{"spider":"http://127.0.0.1:9978/file/TVBoxOSC/spider.jar",
+"wallpaper":"http://127.0.0.1:9978/file/TVBoxOSC/壁纸.jpg",
 "sites":
 	[{"key":"兔小贝","name":"兔小贝","type":3,"api":"./js/drpy.min.js","ext":"./js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
 	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"http://127.0.0.1:9978/file/TVBoxOSC/本地仓/danmu.jar"},
@@ -28,7 +28,7 @@
 	{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 	{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 "lives":
-	[{"name":"live","type":0,"url":"http://127.0.0.1:9978/file/TVBoxOSC/本地仓/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
+	[{"name":"live","type":0,"url":"http://127.0.0.1:9978/file/TVBoxOSC/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
 "ijk":
 	[{"group":"软解码","options":
 		[{"category":4,"name":"opensles","value":"0"},
