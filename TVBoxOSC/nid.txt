@@ -1,0 +1,7 @@
+{"urls":
+	[
+	{"url":"file://TVBoxOSC/影视/api.json","name":"影视"},
+	{"url":"file://TVBoxOSC/文艺/api.json","name":"文艺"},
+	{"url":"file://TVBoxOSC/教育/api.json","name":"教育"},
+	]
+}
