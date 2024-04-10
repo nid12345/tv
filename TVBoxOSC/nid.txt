@@ -1,8 +1,8 @@
 {"urls":
 	[
-	{"url":"file://TVBoxOSC/影视/api.json","name":"影视"},
+	{"url":"https://mirror.ghproxy.com/https://github.com/nid12345/tv/blob/main/TVBoxOSC/影视/api.json","name":"影视"},
 	{"url":"file://TVBoxOSC/动漫/api.json","name":"动漫"},
-	{"url":"file://TVBoxOSC/文艺/api.json","name":"文艺"},
+	{"url":"https://mirror.ghproxy.com/https://github.com/nid12345/tv/blob/main/TVBoxOSC/文艺/api.json","name":"文艺"},
 	{"url":"file://TVBoxOSC/体育/api.json","name":"体育"},
 	{"url":"file://TVBoxOSC/教育/api.json","name":"教育"},
 	{"url":"file://TVBoxOSC/直播/api.json","name":"直播"},
