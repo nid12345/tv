@@ -1,8 +1,8 @@
 {"spider":"./spider.jar",
 "wallpaper":"./壁纸.jpg",
 "sites":
-	[{"key":"播客","name":"播客","type":3,"api":"./js/drpy.min.js","ext":"./js/播客.js"},
-	{"key":"哔哩哔哩戏曲","name":"哔哩哔哩戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/哔哩哔哩戏曲.json"},
+	[{"key":"哔哩哔哩戏曲","name":"哔哩哔哩戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/哔哩哔哩戏曲.json"},
+	{"key":"播客","name":"播客","type":3,"api":"./js/drpy.min.js","ext":"./js/播客.js"},
 	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"./danmu.jar"}],
 "parses":
 	[{"name":"聚合","type":3,"url":"Demo"},
